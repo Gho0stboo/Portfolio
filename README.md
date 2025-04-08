@@ -6,7 +6,7 @@ This portfolio showcases some of the projects I've created using HTML, CSS, and 
 
 ## 🚀 Live Demo
 
-👉 [Click here to visit the live site](myportfoliolook.netlify.app)
+👉 [Click here to visit the live site](https://myportfoliolook.netlify.app/)
 
 ## 🛠️ Built With
 
